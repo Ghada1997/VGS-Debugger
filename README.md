@@ -45,7 +45,7 @@ My contribution included:
 
 ---
 
-🔗 **Original Repo:** [https://github.com/xxxxx](https://github.com/SE-GUC/Debugger)
+🔗 **Original Repo:** [https://github.com/Debugger](https://github.com/SE-GUC/Debugger)
 
 ---
 
