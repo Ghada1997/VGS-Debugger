@@ -1,6 +1,6 @@
 # VGS Club Management Platform (MERN Stack)
 
-This repository is a fork of a collaborative university project developed as part of the software engineering course at **The German University in Cairo (GUC)** for **Vector Game Studio (VGS)** student club.  
+This repository is a fork of a collaborative university project I worked on. It was developed as part of the software engineering course at **The German University in Cairo (GUC)** for **Vector Game Studio (VGS)** student club.  
 The platform enables VGS members to manage internal activities including club applications, voting, and administrative workflows.
 
 ---
